@@ -1,4 +1,5 @@
 # Attraction Finder Kielce
+Sample of application made on Hackathon in Kielce.
 
 ## General information
 
